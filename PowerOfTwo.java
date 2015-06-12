@@ -1,3 +1,10 @@
+/**
+ * Problem: Write a program that determines whether a given number is a power of two.
+ * Includes a text-based user interface. :)
+ *
+ * @author Lauren Marquez
+ */
+
 class powerOfTwo {
 
 	public static boolean isPowerOfTwo(int i) {
@@ -14,7 +21,7 @@ class powerOfTwo {
 				System.out.println(i + " is NOT a power of two.");
 			}
 		} catch (Exception e) {
-			System.out.println("Please enter an integer as a command line argument.");
+			System.out.println("Please try again and enter an integer as a command line argument.");
 			System.exit(0);
 		}
 	}

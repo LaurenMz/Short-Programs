@@ -2,7 +2,7 @@
 * This program takes in a string as a command-line argument and determines whether or not
 * that string is a palindrome.
 *
-* @author: Lauren Marquez
+* @author Lauren Marquez
 */
 
 class Palindrome {
