@@ -7,3 +7,4 @@ Currently includes:
 * Palindrome
 * Power of Two
 * FizzBuzz
+* PrimeCheck
